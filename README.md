@@ -1,4 +1,4 @@
-👋 Hi, I’m Lukasz Naperty. Welcome on my GitHub profile. I would like to show you a sample of my technological skills. Enjoy!cal skills
+👋 Hi, I’m Lukasz Naperty. Welcome on my GitHub profile. I would like to show you a sample of my technological skills. Enjoy!
 
 <!---
 - 👋 Hi, I’m @lnaperty
